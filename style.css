@@ -1,0 +1,28 @@
+h1{
+	font-size:50px;
+	color:blue;
+	border:2px solid black;
+	text-align:center;
+	border-radius:10px;
+	width:30%;
+}
+a{									<!--For tags directly and it is not good practice-->
+	text-decoration:none;
+}
+.heading{							<!--class, always start with .-->
+	font-size:50px;
+	colo:blue;
+	border:2px solid black;
+	text-align:center;
+	border-radius:10px;
+	width:30%;
+	padding:10px;
+}
+#kuchh{								<!--id, always starts with #-->
+	font-size:50px;
+	color:blue;
+	border:2px solid black;
+	text-align:center;
+	border-radius:10px;
+	width:30%;
+}
